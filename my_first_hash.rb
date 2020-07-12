@@ -9,7 +9,8 @@ end
 
 
 def shipping_manifest
-  "whale bone corsets"
+  the_manifest = {
+  "whale bone corsets" => 5
 
 
 end
