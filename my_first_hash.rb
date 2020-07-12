@@ -35,9 +35,9 @@ def adding
                   "oil paintings" => 3
                  }
   
-  shipping_manifest
+  shipping_manifest["muskets"] = 2
 
-  shipping_manifest
+  shipping_manifest[] = 4
 
   # return the shipping_manifest hash below
 
